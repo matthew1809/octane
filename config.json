@@ -7,8 +7,8 @@
         "transfer": {
             "tokens": [
                 {
-                    "mint": "__PLACEHOLDER__",
-                    "account": "__PLACEHOLDER__",
+                    "mint": "GVCZBbHnqRrKqgpue3qC7wGae4r4MD9GLfke54FKTxGi",
+                    "account": "6aLLCt6wz7nzMdJHLGRNBS13ftesPRaCFuhmmKEiTDuo",
                     "decimals": 9,
                     "fee": 10000000
                 }
@@ -17,8 +17,8 @@
         "createAssociatedTokenAccount": {
             "tokens": [
                 {
-                    "mint": "__PLACEHOLDER__",
-                    "account": "__PLACEHOLDER__",
+                    "mint": "GVCZBbHnqRrKqgpue3qC7wGae4r4MD9GLfke54FKTxGi",
+                    "account": "6aLLCt6wz7nzMdJHLGRNBS13ftesPRaCFuhmmKEiTDuo",
                     "decimals": 9,
                     "fee": 10000000
                 }
@@ -27,8 +27,8 @@
         "whirlpoolsSwap": {
             "tokens": [
                 {
-                    "mint": "__PLACEHOLDER__",
-                    "account": "__PLACEHOLDER__",
+                    "mint": "GVCZBbHnqRrKqgpue3qC7wGae4r4MD9GLfke54FKTxGi",
+                    "account": "6aLLCt6wz7nzMdJHLGRNBS13ftesPRaCFuhmmKEiTDuo",
                     "decimals": 9,
                     "fee": 10000000
                 }
