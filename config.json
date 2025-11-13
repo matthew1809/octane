@@ -10,8 +10,8 @@
         "transfer": {
             "tokens": [
                 {
-                    "mint": "GVCZBbHnqRrKqgpue3qC7wGae4r4MD9GLfke54FKTxGi",
-                    "account": "6aLLCt6wz7nzMdJHLGRNBS13ftesPRaCFuhmmKEiTDuo",
+                    "mint": "rQAUWLVSjPn3zpvYaP2nz5v9v3CM5tgVuohYbPNaQ5f",
+                    "account": "DYxFaybHvRUBzV6mxeqbL4Ycx744SgnJzJJs2Qr8QmUF",
                     "decimals": 9,
                     "fee": 10000000
                 }
@@ -20,8 +20,8 @@
         "createAssociatedTokenAccount": {
             "tokens": [
                 {
-                    "mint": "GVCZBbHnqRrKqgpue3qC7wGae4r4MD9GLfke54FKTxGi",
-                    "account": "6aLLCt6wz7nzMdJHLGRNBS13ftesPRaCFuhmmKEiTDuo",
+                    "mint": "rQAUWLVSjPn3zpvYaP2nz5v9v3CM5tgVuohYbPNaQ5f",
+                    "account": "",
                     "decimals": 9,
                     "fee": 10000000
                 }
@@ -30,8 +30,8 @@
         "whirlpoolsSwap": {
             "tokens": [
                 {
-                    "mint": "GVCZBbHnqRrKqgpue3qC7wGae4r4MD9GLfke54FKTxGi",
-                    "account": "6aLLCt6wz7nzMdJHLGRNBS13ftesPRaCFuhmmKEiTDuo",
+                    "mint": "rQAUWLVSjPn3zpvYaP2nz5v9v3CM5tgVuohYbPNaQ5f",
+                    "account": "",
                     "decimals": 9,
                     "fee": 10000000
                 }
